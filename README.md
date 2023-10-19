@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast based in Pune.
 
 ## Interests 👀
-I'm deeply interested in web development, machine learning, and open-source projects. I enjoy exploring new programming languages and frameworks to build exciting and innovative applications.
+I'm passionate about automating software development and deployment processes, constantly striving for efficiency and reliability in DevOps.
 
 ## Currently Learning 🌱
-I'm currently learning React JS, TypeScript, Docker and Kubernetes, Core java, Spring boot.
+I am a DevOps enthusiast with expertise in version control, CI/CD, and configuration management. Proficient in tools like Git, Jenkins, Ansible, and Docker, I'm passionate about automating software development and deployment processes. My strong problem-solving and collaboration skills, coupled with a commitment to continuous learning, make me a valuable asset in fostering a DevOps culture and delivering efficient, reliable solutions.
 
 ## Collaboration Opportunities 💞
 I'm always open to collaborating on interesting projects. Whether it's contributing to open-source projects or working on creative app ideas, I'm excited to connect with fellow developers and build amazing things together.
