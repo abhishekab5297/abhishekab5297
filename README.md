@@ -1,12 +1,12 @@
 # Hi there! 👋 I’m Abhishek (@abhishekab5297)
 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast based in Pune.
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusiast based in Pune.
 
 ## Interests 👀
 I'm passionate about automating software development and deployment processes, constantly striving for efficiency and reliability in DevOps.
 
 ## Currently Learning 🌱
-I am a DevOps enthusiast with expertise in version control, CI/CD, and configuration management. Proficient in tools like Git, Jenkins, Ansible, and Docker, I'm passionate about automating software development and deployment processes. My strong problem-solving and collaboration skills, coupled with a commitment to continuous learning, make me a valuable asset in fostering a DevOps culture and delivering efficient, reliable solutions.
+I am a DevOps Engneer with expertise in version control, CI/CD, and configuration management. Proficient in tools like AWS DevOps, GitHub, Linux, Jenkins,Docker and Kubernetes I'm passionate about automating software development and deployment processes. My strong problem-solving and collaboration skills, coupled with a commitment to continuous learning, make me a valuable asset in fostering a DevOps culture and delivering efficient, reliable solutions.
 
 ## Collaboration Opportunities 💞
 I'm always open to collaborating on interesting projects. Whether it's contributing to open-source projects or working on creative app ideas, I'm excited to connect with fellow developers and build amazing things together.
